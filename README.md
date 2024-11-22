@@ -3,7 +3,7 @@
 - 🌱 I am currently learning Android new technologies Jetpack Compose and Java Backend
 - 💞️ I want to collaborate with new and strong and useful project leaders
 - 📫 How to reach me : Telegram:https://t.me/FKK0109 or Linked In: https://www.linkedin.com/in/fozilbek-karimov-b33543277
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He / Him
 - ⚡ Interesting fact: Understanding the project
 
 <!---
