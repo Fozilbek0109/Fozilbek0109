@@ -55,7 +55,7 @@ Mening so'nggi faoliyatim va eng ko'p ishlatgan tillarim:
 
 [![Fozilbek's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fozilbek0109&theme=github_dark)](https://github.com/Fozilbek0109)
 
-[![Fozilbek's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Fozilbek0109)](https://github.com/Fozilbek0109)
+[![Fozilbek's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Fozilbek0109&theme=solarized-light)](https://github.com/Fozilbek0109)
 
 ---
 
