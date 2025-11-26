@@ -27,13 +27,11 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 | **Kutubxonalar & Asboblar** | `Retrofit`, `Coroutines`, `Room`, `Dagger/Hilt` (O'rganilmoqda) |
 | **Versiya Boshqaruvi** | `Git`, `GitHub` |
 
-> 💡 **Maslahat:** Profilingizni vizual ravishda boyitish uchun yuqoridagi texnologiyalar yoniga tegishli ikonlarni (masalan, [SkillIcons](https://skillicons.dev/)) joylashtirishingiz mumkin.
 
 ---
 
-### 🔥 Loyihalar (Misol uchun joy ajratilgan)
+### 🔥 Loyihalar
 
-Bu yerga o'zingizning eng muhim loyihalaringizni (masalan, "Kino-sfera" yoki boshqa tugallangan ilovalarni) joylashtiring.
 
 * **Kino-sfera Ilovasi (In Progress)**
     * Qisqacha tavsif: [Kino-sfera ilovasi nima qilishi haqida qisqacha ma'lumot].
