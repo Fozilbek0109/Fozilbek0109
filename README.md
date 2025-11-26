@@ -44,6 +44,12 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 * **GitHub Repository:** [Private]
 * **Play Market:** [https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share](https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share)
 
+#### **2. Avto test** (Tugallangan, Rivojlanmoqda)
+* **Qisqacha tavsif:** Haydovchilik guvohnomasini olish uchun talab qilinadigan barcha yo'l harakati qoidalari (YHQ) test savollarini o'z ichiga olgan ta'limiy ilova. Foydalanuvchilarga rasmiy imtihonga tayyorlanish, bilimlarni sinovdan o'tkazish va xatolar ustida ishlash imkoniyatini beradi.
+* **Hal qilingan muammo:** Foydalanuvchilarning sinovdan o'tish jarayonini soddalashtirish va yuqori natijaga erishish uchun samarali, mobil yechimni taqdim etish.
+* **Ishlatilgan texnologiyalar:** `Java`, `XML`, `SQLite` (Mahalliy ma'lumotlar bazasi uchun), `AdMob` (Monetizatsiya uchun).
+* **GitHub Repository:** [Private]
+* **Play Market:** [![Avto test Play Market](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share)
 ---
 
 ### 📈 GitHub Statistikasi
