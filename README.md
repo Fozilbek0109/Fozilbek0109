@@ -22,41 +22,42 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 | :--- | :--- |
 | **Dasturlash Tillari** | `Kotlin` (Asosiy), `Java`, `C++` (Asosiy tushunchalar) |
 | **Android UI/Frontend** | `Jetpack Compose` (Asosiy), `XML` (An'anaviy UI), `Material Design` |
-| **Android Framework** | `Android SDK`, `Android Architecture Components` |
 | **Android Arxitektura** | `MVVM`, `MVP`, `Clean Architecture` (Mustahkam bilimlar) |
+| **Android Framework** | `Android SDK`, `Android Architecture Components` |
 | **Kutubxonalar & Asboblar** | `Retrofit`, `Coroutines`, `Room`, `Dagger/Hilt` (O'rganilmoqda) |
 | **Versiya Boshqaruvi** | `Git`, `GitHub` |
-
 
 ---
 
 ### 🔥 Loyihalar
 
+#### **1. Kino-sfera Ilovasi** (Tugallangan, Rivojlanmoqda)
+* **Qisqacha tavsif:** [Kino-sfera ilovasi nima qilishi haqida qisqacha ma'lumot. Masalan: Film va seriallar katalogi, baholash va tomosha qilish funksiyalarini o'z ichiga olgan media ilovasi.]
+* **Ishlatilgan texnologiyalar:** `Kotlin`, `Jetpack Compose` (zamonaviy UI), `Coroutines`, `Retrofit`.
+* **GitHub Repository:** [Private]
+* **Play Market:** [https://play.google.com/store/apps/details?id=tech.uzpro.kino_sfera&pcampaignid=web_share](https://play.google.com/store/apps/details?id=tech.uzpro.kino_sfera&pcampaignid=web_share)
+      
+#### **2. Avto test** (Tugallangan, Rivojlanmoqda)
+* **Qisqacha tavsif:** Haydovchilik guvohnomasini olish uchun talab qilinadigan barcha yo'l harakati qoidalari (YHQ) test savollarini o'z ichiga olgan ta'limiy ilova. Foydalanuvchilarga rasmiy imtihonga tayyorlanish, bilimlarni sinovdan o'tkazish va xatolar ustida ishlash imkoniyatini beradi.
+* **Hal qilingan muammo:** Foydalanuvchilarning sinovdan o'tish jarayonini soddalashtirish va yuqori natijaga erishish uchun samarali, mobil yechimni taqdim etish.
+* **Ishlatilgan texnologiyalar:** `Java`, `XML`, `SQLite` (Mahalliy ma'lumotlar bazasi uchun), `AdMob` (Monetizatsiya uchun).
+* **GitHub Repository:** [Private]
+* **Play Market:** [https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share](https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share)
 
-* **Kino-sfera Ilovasi (Tugallangan,Rivojlanmoqda)**
-    * **Qisqacha tavsif:** [Kino-sfera ilovasi nima qilishi haqida qisqacha ma'lumot].
-    * **Ishlatilgan texnologiyalar:** `Kotlin`, `Jetpack Compose`, `Coroutines`, `Retrofit`.
-    * **Git hub:** https://github.com/Fozilbek0109/Kino_Sfera  **(private)**
-    * **Play market:** https://play.google.com/store/apps/details?id=tech.uzpro.kino_sfera&pcampaignid=web_share
-      
-* **Avto test (Tugallangan,Rivojlanmoqda)**
-    * **Qisqacha tavsif:** Haydovchilik guvohnomasini olish uchun talab qilinadigan barcha yo'l harakati qoidalari (YHQ) test savollarini o'z ichiga olgan ta'limiy ilova. Foydalanuvchilarga rasmiy imtihonga tayyorlanish, bilimlarni sinovdan o'tkazish va xatolar ustida ishlash imkoniyatini beradi.
-    * **Hal qilingan muammo:** Foydalanuvchilarning sinovdan o'tish jarayonini soddalashtirish va yuqori natijaga erishish uchun samarali, mobil yechimni taqdim etish.
-    * **Ishlatilgan texnologiyalar:** `Java`, `XML`, `SQLite` (Mahalliy ma'lumotlar bazasi uchun), `AdMob` (Monetizatsiya uchun).
-    * **Git hub:** __ **(private)**
-    * **Play market:** https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share
 ---
 
 ### 📈 GitHub Statistikasi
 
-```markdown
-https://github-readme-stats.vercel.app/api?username=[Fozilbek0109]&show_icons=true&theme=nord)](https://github.com/[Fozilbek0109]
-https://github-readme-stats.vercel.app/api/top-langs/?username=[Fozilbek0109]&layout=compact&theme=nord)](https://github.com/[Fozilbek0109]
+Mening so'nggi faoliyatim va eng ko'p ishlatgan tillarim:
+
+[![Fozilbek's GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=Fozilbek0109&show_icons=true&theme=nord)](https://github.com/Fozilbek0109)
+[![Fozilbek's Top tillari](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozilbek0109&layout=compact&theme=nord)](https://github.com/Fozilbek0109)
+
 ---
 
 ### 📞 Men bilan bog'lanish
 
 Agar Android dasturlash, real loyihalar yoki yangi texnologiyalar bo'yicha savollaringiz bo'lsa, men bilan bog'lanishdan tortinmang!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[strike0109k@gmail.com])
-[![LinkedIn (Agar mavjud bo'lsa)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[LINKEDIN PROFILINGIZ HAVOLASI](https://www.linkedin.com/in/fozilbek-karimov-b33543277/)])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strike0109k@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fozilbek-karimov-b33543277/)
