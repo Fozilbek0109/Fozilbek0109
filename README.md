@@ -46,7 +46,7 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 <a href="https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share">
   <img src="https://play-lh.googleusercontent.com/DV5KGPL9QrGvuT8Fl-OfGZocwlBN5p5uHVTW96EAK6SXVyLlUgHKSrY1BhSbZJCHAA=w240-h480-rw" alt="Avto test Ikonkasi" width="80"/>
 </a>
-* **Play Market:** [![Avto test Play Market](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share)
+[https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share](https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share)
 ---
 
 ### 📈 GitHub Statistikasi
