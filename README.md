@@ -42,12 +42,12 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 * **Hal qilingan muammo:** Foydalanuvchilarning sinovdan o'tish jarayonini soddalashtirish va yuqori natijaga erishish uchun samarali, mobil yechimni taqdim etish.
 * **Ishlatilgan texnologiyalar:** `Java`, `XML`, `SQLite` (Mahalliy ma'lumotlar bazasi uchun), `AdMob` (Monetizatsiya uchun).
 * **GitHub Repository:** [Private]
-* **Play Market:** [https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share](https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share)
+* **Play Market:** <a href="https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share">
+      <img src="https://play-lh.googleusercontent.com/DV5KGPL9QrGvuT8Fl-OfGZocwlBN5p5uHVTW96EAK6SXVyLlUgHKSrY1BhSbZJCHAA=w240-h480-rw" alt="Avto-test Ikonkasi" width="80"/>
+    </a>
 <a href="https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share">
   <img src="https://play-lh.googleusercontent.com/DV5KGPL9QrGvuT8Fl-OfGZocwlBN5p5uHVTW96EAK6SXVyLlUgHKSrY1BhSbZJCHAA=w240-h480-rw" alt="Avto test Ikonkasi" width="80"/>
 </a>
-[https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share](https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share)
----
 
 ### 📈 GitHub Statistikasi
 
