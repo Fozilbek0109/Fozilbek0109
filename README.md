@@ -33,16 +33,18 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 ### 🔥 Loyihalar
 
 
-* **Kino-sfera Ilovasi (In Progress)**
-    * Qisqacha tavsif: [Kino-sfera ilovasi nima qilishi haqida qisqacha ma'lumot].
-    * Ishlatilgan texnologiyalar: `Kotlin`, `Jetpack Compose`, `Coroutines`, `Retrofit`.
-    * [Repositoryga Havola]
-
-* **Avto test (Tugallangan)**
+* **Kino-sfera Ilovasi (Tugallangan,Rivojlanmoqda)**
+    * **Qisqacha tavsif:** [Kino-sfera ilovasi nima qilishi haqida qisqacha ma'lumot].
+    * **Ishlatilgan texnologiyalar:** `Kotlin`, `Jetpack Compose`, `Coroutines`, `Retrofit`.
+    * **Git hub:** https://github.com/Fozilbek0109/Kino_Sfera  **(private)**
+    * **Play market:** https://play.google.com/store/apps/details?id=tech.uzpro.kino_sfera&pcampaignid=web_share
+      
+* **Avto test (Tugallangan,Rivojlanmoqda)**
     * **Qisqacha tavsif:** Haydovchilik guvohnomasini olish uchun talab qilinadigan barcha yo'l harakati qoidalari (YHQ) test savollarini o'z ichiga olgan ta'limiy ilova. Foydalanuvchilarga rasmiy imtihonga tayyorlanish, bilimlarni sinovdan o'tkazish va xatolar ustida ishlash imkoniyatini beradi.
     * **Hal qilingan muammo:** Foydalanuvchilarning sinovdan o'tish jarayonini soddalashtirish va yuqori natijaga erishish uchun samarali, mobil yechimni taqdim etish.
     * **Ishlatilgan texnologiyalar:** `Java`, `XML`, `SQLite` (Mahalliy ma'lumotlar bazasi uchun), `AdMob` (Monetizatsiya uchun).
-    *  https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share
+    * **Git hub:** __ **(private)**
+    * **Play market:** https://play.google.com/store/apps/details?id=tech.uzpro.avto_test&pcampaignid=web_share
 ---
 
 ### 📈 GitHub Statistikasi
