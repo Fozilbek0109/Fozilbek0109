@@ -50,8 +50,8 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 ### 📈 GitHub Statistikasi
 
 ```markdown
-[![Fozilbek's GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=[Fozilbek0109]&show_icons=true&theme=nord)](https://github.com/[Fozilbek0109])
-[![Fozilbek's Top tillari](https://github-readme-stats.vercel.app/api/top-langs/?username=[Fozilbek0109]&layout=compact&theme=nord)](https://github.com/[Fozilbek0109])
+https://github-readme-stats.vercel.app/api?username=[Fozilbek0109]&show_icons=true&theme=nord)](https://github.com/[Fozilbek0109]
+https://github-readme-stats.vercel.app/api/top-langs/?username=[Fozilbek0109]&layout=compact&theme=nord)](https://github.com/[Fozilbek0109]
 ---
 
 ### 📞 Men bilan bog'lanish
