@@ -7,7 +7,7 @@
 Mening ish jarayonimda foydalaniladigan asosiy texnologiyalar:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,playmarket,gradle,postman" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,playcansole,gradle,postman" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,retrofit,room" />
 </p>
