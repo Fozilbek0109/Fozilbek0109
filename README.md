@@ -35,8 +35,10 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 * **Qisqacha tavsif:** [Kino-sfera ilovasi nima qilishi haqida qisqacha ma'lumot. Masalan: Film va seriallar katalogi, baholash va tomosha qilish funksiyalarini o'z ichiga olgan media ilovasi.]
 * **Ishlatilgan texnologiyalar:** `Kotlin`, `Jetpack Compose` (zamonaviy UI), `Coroutines`, `Retrofit`.
 * **GitHub Repository:** [Private]
-* **Play Market:** [https://play.google.com/store/apps/details?id=tech.uzpro.kino_sfera&pcampaignid=web_share](https://play.google.com/store/apps/details?id=tech.uzpro.kino_sfera&pcampaignid=web_share)
-      
+* **Play Market:**
+
+  <a href="https://play.google.com/store/apps/details?id=tech.uzpro.kino_sfera&pcampaignid=web_share">
+      <img src="https://play-lh.googleusercontent.com/R-mgv-Dbw86Xfaw074rCW8BgGALi3PMZfogOf_bFlvpjrakboWvyeLV7tvhaY2T5gFLp=w240-h480-rw" alt="Kino-Sfera Ikonkasi" width="80"/>
 #### **2. Avto test** (Tugallangan, Rivojlanmoqda)
 * **Qisqacha tavsif:** Haydovchilik guvohnomasini olish uchun talab qilinadigan barcha yo'l harakati qoidalari (YHQ) test savollarini o'z ichiga olgan ta'limiy ilova. Foydalanuvchilarga rasmiy imtihonga tayyorlanish, bilimlarni sinovdan o'tkazish va xatolar ustida ishlash imkoniyatini beradi.
 * **Hal qilingan muammo:** Foydalanuvchilarning sinovdan o'tish jarayonini soddalashtirish va yuqori natijaga erishish uchun samarali, mobil yechimni taqdim etish.
