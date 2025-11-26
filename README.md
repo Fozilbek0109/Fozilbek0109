@@ -33,7 +33,7 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 
 #### **1. Kino-sfera Ilovasi** (Tugallangan, Rivojlanmoqda)
 * **Qisqacha tavsif:** [Kino-sfera ilovasi nima qilishi haqida qisqacha ma'lumot. Masalan: Film va seriallar katalogi, baholash va tomosha qilish funksiyalarini o'z ichiga olgan media ilovasi.]
-* **Ishlatilgan texnologiyalar:** `Kotlin`, `Jetpack Compose` (zamonaviy UI), `Coroutines`, `Retrofit`.
+* **Ishlatilgan texnologiyalar:** `Kotlin`, `Clean Arxeticture + MVVM` , `Exo Player` (Tomosha qilish) , `XML` (zamonaviy UI), `Coroutines`, `Retrofit`.
 * **GitHub Repository:** [Private]
 * **Play Market:**
 
@@ -42,7 +42,7 @@ Mening asosiy ish jarayonimda ishlatiladigan texnologiyalar va tillar:
 #### **2. Avto test** (Tugallangan, Rivojlanmoqda)
 * **Qisqacha tavsif:** Haydovchilik guvohnomasini olish uchun talab qilinadigan barcha yo'l harakati qoidalari (YHQ) test savollarini o'z ichiga olgan ta'limiy ilova. Foydalanuvchilarga rasmiy imtihonga tayyorlanish, bilimlarni sinovdan o'tkazish va xatolar ustida ishlash imkoniyatini beradi.
 * **Hal qilingan muammo:** Foydalanuvchilarning sinovdan o'tish jarayonini soddalashtirish va yuqori natijaga erishish uchun samarali, mobil yechimni taqdim etish.
-* **Ishlatilgan texnologiyalar:** `Java`, `XML`, `SQLite` (Mahalliy ma'lumotlar bazasi uchun), `AdMob` (Monetizatsiya uchun).
+* **Ishlatilgan texnologiyalar:** `Clean Arxeticture + MVVM` , `Kotlin`, `XML`, `SQLite` (Mahalliy ma'lumotlar bazasi uchun), `AdMob` (Monetizatsiya uchun).
 * **GitHub Repository:** [Private]
 * **Play Market:** 
 
