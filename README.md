@@ -20,6 +20,9 @@ Key technologies used in my workflow:
 <p align="left">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmF3hPloSR0boBVs_ccWCxuRiHK5-OqDNkYcRBRf3Aw&s=10" width="60" height="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jkonSptXB369dxN4VQTihWKfvBC-xH_9KMhOZI_DnA&s=10" width="60" height="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3WJ61zlq8ZT6amiH75Lpm0CIJtuJprZWTbRpAVTQ3g&s=10" width="60" height="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsD7dVbClHSe8BipDS8CcI-KAXjVhNS8qVyatxv9ncJg&s=10" width="60" height="60"/>
+  
 </p>
 
 ---
