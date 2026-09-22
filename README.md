@@ -16,6 +16,12 @@ Key technologies used in my workflow:
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma" />
 </p>
 
+## 🛠️ Freelance
+<p align="left">
+<img src="https://skillicons.dev/icons?i=upwork,freelancer.com,kwork.ru" />
+<br/>
+</p>
+
 ---
 
 ## 📞 Contact
