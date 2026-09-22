@@ -12,6 +12,8 @@ Key technologies used in my workflow:
 <img src="https://skillicons.dev/icons?i=android,retrofit,room" />
 <br>
 <img src="https://skillicons.dev/icons?i=git,github" />
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 ---
