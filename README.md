@@ -18,7 +18,7 @@ Key technologies used in my workflow:
 
 ## 🛠️ Freelance
 <p align="left">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmF3hPloSR0boBVs_ccWCxuRiHK5-OqDNkYcRBRf3Aw&s=10" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmF3hPloSR0boBVs_ccWCxuRiHK5-OqDNkYcRBRf3Aw&s=10" size=25 />
 <br/>
 </p>
 
