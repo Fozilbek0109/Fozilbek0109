@@ -1,4 +1,4 @@
-# Hello! I'm Fozilbek 👋 | Android Developer
+# Hello! I'm Fozilbek 👋 | Mobile Developer
 
 ---
 
