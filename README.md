@@ -11,9 +11,9 @@ Key technologies used in my workflow:
 <br/>
 <img src="https://skillicons.dev/icons?i=androidstudio,gradle,postman" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql" />
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma" />
 </p>
 
 ---
